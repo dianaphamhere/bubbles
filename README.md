@@ -11,6 +11,6 @@ Creating new element and appending: https://stackoverflow.com/questions/8886248/
 Removing elements by class: https://stackoverflow.com/questions/4777077/removing-elements-by-class-name  
 Citation for element infanticide quote: https://stackoverflow.com/questions/3387427/remove-element-by-id  
 Get mouse click position: https://www.kirupa.com/html5/getting_mouse_click_position.htm  
-Move thorough pafe for click position: https://www.kirupa.com/snippets/move_element_to_click_position.htm
+Move thorough page for click position: https://www.kirupa.com/snippets/move_element_to_click_position.htm
 
 (just to clarify, i only thought the usage of infanticide was humorous because it was regarding an element. in html. in code. on a computer. text really. starts sweating.)
