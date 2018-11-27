@@ -33,7 +33,6 @@
 	width: 80%;
 	height: 80%;
 	border: 2px dotted gray;
-	/*background-color: gray;*/
 	overflow: hidden;
 }
 
@@ -43,7 +42,22 @@
 	border-radius: 50%;
 }
 
+#bubble0 {
+	width: 10px;
+	height: 10px;
+}
+
 #bubble1 {
+	width: 30px;
+	height: 30px;
+}
+
+#bubble2 {
 	width: 50px;
 	height: 50px;
+}
+
+#bubble3 {
+	width: 70px;
+	height: 70px;
 }
