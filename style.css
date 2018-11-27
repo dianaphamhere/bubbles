@@ -37,6 +37,7 @@
 }
 
 .bubble {
+	position: fixed;
 	background-color: white;
 	border: solid black;
 	border-radius: 50%;
